@@ -1,0 +1,21 @@
+.menuButton {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  transition-duration: 0.4s;
+  padding: 10px 20px;
+  position: relative;
+  top: -17px;
+  left: 170px;
+  border-radius: 5%;
+  border: 2px solid #4caf50;
+}
+
+.menuButton:hover {
+  background-color: #fefffe;
+  color: rgb(0, 0, 0);
+}
